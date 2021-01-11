@@ -1,6 +1,14 @@
 {
     "name": "atiksoftware/gramer",
-    "description": "Türkçedeki iyelik ekleri",
+    "description": "Türkçedeki iyelik ekleri. e/de/den/ile ekleri.",
+    "keywords": [
+        "turkce",
+        "iyelik",
+        "ekleri",
+        "hal",
+        "laravel",
+        "php"
+    ],
     "type": "library",
     "license": "MIT",
     "authors": [
