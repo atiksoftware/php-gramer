@@ -1,9 +1,9 @@
 # PHP Gramer
 
-Php için türkçe gramer yardımcısı
-*İyelik Ekleri*
-Bu repoda sadece türkçe kullanım için uygun olduğundan metinler türkçedir.
-This descriptions turkish language because of lib just for using on turkish language,
+Php için türkçe gramer yardımcısı  
+*İyelik Ekleri*  
+Bu repoda sadece türkçe kullanım için uygun olduğundan metinler türkçedir.  
+This descriptions turkish language because of lib just for using on turkish language.  
 
 ----------
 ### Kurulum 
